@@ -1,0 +1,6 @@
+Caso não haja o commit, após esse comando, os arquivos estarão *unstaged*
+git add.
+
+Havendo o commit, os arquivos passarão para *staged*
+git commit -m "Mudança feita"
+

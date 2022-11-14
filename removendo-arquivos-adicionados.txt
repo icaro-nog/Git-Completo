@@ -1,0 +1,5 @@
+Remover arquivo do versionamento que já foi adicionado
+git rm --cached <nome-do-arquivo>
+
+Remover todos os arquivos do versionamento
+git rm --cached -r .

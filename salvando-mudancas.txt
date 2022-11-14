@@ -1,0 +1,3 @@
+Criando primeira versão do arquivo adicionado
+git commit -m "versão inicial"
+

@@ -1,0 +1,8 @@
+Listar arquivos do repositório
+$ ls
+
+Listar todos os arquivos do repositório
+$ ls -a
+
+Inicializar repositório local
+$ git init

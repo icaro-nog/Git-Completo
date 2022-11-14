@@ -1,0 +1,10 @@
+Configuração do usuário
+$ git config --global user.name "meu nome"
+$ git config --global user.email "meu email@"
+
+Verificar qual o nome e e-mail configurados
+$ git config --global user.name 
+$ git config --global user.email 
+
+Limpar tela Git
+$ git clear 
