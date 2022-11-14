@@ -1,3 +1,3 @@
-# Git-Completo
+# Git Completo: Do Básico ao Avançado
 
-Repositório de estudos sobre Git e Github
+Este repositório é referente ao curso da DevMasterTeam disponível na plataforma Udemy
