@@ -1,0 +1,6 @@
+[escrever em .gitignore] Ignorar qualquer arquivo com a extensão
+*.bmp
+
+[escrever em .gitignore] Ignorar arquivo com esse nome
+nome-do-arquivo.txt
+
