@@ -1,0 +1,11 @@
+Voltando arquivo a versão anterior, não é possível desfazer esse comando
+git checkout <nome-do-arquivo>
+
+Remover arquivos não rastreados
+git clean -f
+
+Voltar respositório a versão original depois de muitas alterações
+git checkout .
+e
+git clean -f
+
