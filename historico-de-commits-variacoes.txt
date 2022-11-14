@@ -1,0 +1,14 @@
+Limpar os commits exibidos na tela
+q
+
+Mostrar apenas a mensagem e a hash do commit (resumo)
+git log --oneline
+
+Mostrar uma quantidade específica de commits
+git log -<quantidade>
+
+Mostrar uma quantidade específica de commits de forma resumida
+git log --oneline -<quantidade>
+
+Mostrar quais arquivos foram mudados
+git --stat
