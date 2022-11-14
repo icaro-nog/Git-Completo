@@ -1,0 +1,5 @@
+Clonando respostório
+git clone <nome-do-repositorio>
+
+Ver histórico de commits nesse respositório
+git clone --oneline
