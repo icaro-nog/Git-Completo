@@ -1,0 +1,6 @@
+Alterando commit anterior
+git commit --amend -m "Correção de commit"
+
+Caso esqueça de adicionar todos os arquivos, e precise que o commit anterior seja de todos
+git commit --amend --no-edit
+

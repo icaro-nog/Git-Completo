@@ -1,0 +1,5 @@
+Voltando ao commit
+git checkout <hash>
+
+Voltar a versão original
+git checkout master
