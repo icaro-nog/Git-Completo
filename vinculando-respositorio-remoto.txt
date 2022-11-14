@@ -1,0 +1,8 @@
+Ver quais repositórios remotos estão conectados ao repositório local
+git remote -v
+
+Conectar ao repositório
+git remote add origin <link-do-repositorio>
+
+Trocar ou atualizar o repositório remoto
+git remote set-url origin <link-do-novo-repositorio>
