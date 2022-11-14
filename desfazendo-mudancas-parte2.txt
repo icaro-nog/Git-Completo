@@ -1,0 +1,4 @@
+Voltar todos os arquivos para o último commit
+git reset --hard
+
+
