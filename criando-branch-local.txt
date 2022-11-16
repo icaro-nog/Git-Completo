@@ -1,0 +1,20 @@
+Listagem de branchs
+git branch ou git branch --list
+
+Criação de nova branch
+git branch <nome-da-branch>
+
+Mudar de branch
+git checkout <nome-da-branch>
+
+Criação de nova branch e mudança
+git checkout -b <nome-da-branch>
+
+Mudar para branch usada anteriormente
+git switch -
+
+Mudar de branch com switch
+git switch <nome-da-branch>
+
+Criação de nova branch e mudança usando o switch
+git switch -c <nome-da-branch>
