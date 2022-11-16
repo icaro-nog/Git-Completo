@@ -1,0 +1,2 @@
+Para descartar alterações feitas na branch utilizada anteriormente e não passá-las a branch que irá ser usada
+git checkout -f <nome-da-branch-que-deseja-utilizar>
