@@ -1,0 +1,2 @@
+Baixando a última versão do repositório remoto já vinculado
+git pull
