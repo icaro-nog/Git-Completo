@@ -1,0 +1,2 @@
+Enviar nova branch criada localmente para repositório remoto
+git push -u origin <nome-da-branch>
