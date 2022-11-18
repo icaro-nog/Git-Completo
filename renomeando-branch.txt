@@ -1,0 +1,5 @@
+Renomear branch estando na branch
+git branch -m <nome-da-nova-branch>
+
+Renomear branch não estando na branch
+git branch -m <nome-da-branch> <novo-nome-da-branch>
