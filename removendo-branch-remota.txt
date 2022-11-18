@@ -1,0 +1,9 @@
+Apagar branch remota
+git push --delete origin <nome-da-branch>
+
+Sair da branch local
+git checkout <nome-da-branch-que-será-utilizada-apos-checkout>
+
+Deletar a branch local que foi deletada no servidor
+git branch -d <nome-da-branch>
+
