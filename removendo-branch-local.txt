@@ -1,0 +1,5 @@
+Como apagar uma branch local
+git branch -d <nome-da-branch>
+
+Como forçar apagar uma branch local
+git branch -D <nome-da-branch>
