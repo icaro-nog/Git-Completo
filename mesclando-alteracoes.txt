@@ -1,0 +1,8 @@
+Trazer mudanças da branch alterada para a branch em uso
+git merge <nome-da-branch-alterada>
+
+Saber quais branchs ainda não foram mergeadas
+git branch --no-merged
+
+Saber quais branchs ainda foram mergeadas
+git branch --merged
