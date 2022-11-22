@@ -1,0 +1,6 @@
+Abortar um merge com conflitos
+git merge --abort
+ou
+git reset --hard
+
+O recomendado é realizar as alterações manuais ou por meio da IDE utilizada (VSCode)
