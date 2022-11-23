@@ -1,0 +1,5 @@
+Apagar tag
+git tag -d <nome-da-tag>
+
+Apagar tag do repositório remoto
+git push --delete origin <nome-da-tag>
