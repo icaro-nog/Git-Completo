@@ -1,0 +1,17 @@
+Criação de tag
+git tag v1
+
+Verificar criação de tag local
+git log --oneline
+
+Criação de tag com commit e rastreio de quem criou a tag
+git tag -a -m "Tag criada v2" v2 (nome da tag)
+
+Mostrar dados da tag criada (apenas v2 irá aparecer os dados de quem a fez)
+git show <nome-da-tag>
+
+Mostrar todas as tags do projeto
+git tag
+
+Mostrar commits das tag
+git tag -n (v1 assume o último commit feito)
