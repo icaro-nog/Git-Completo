@@ -1,0 +1,6 @@
+Forçando envio de mudanças ao repositório remoto (não é possível recuperar!)
+git push --force
+
+Forçando envio de mudanças ao repositório remoto, apenas se nenhuma alteração for perdida
+git push --force-with-lease
+
