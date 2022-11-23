@@ -1,0 +1,5 @@
+Criação de tag em commit antigo
+git tag <nome-da-tag> <hash-do-commit>
+
+Criação de tag com commit em commit antigo
+git tag -a -m "Mensagem do commit" <nome-da-tag> <hash-do-commit>
