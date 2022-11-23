@@ -1,0 +1,2 @@
+Desfazer commits 
+git reset --hard <hash-do-commit>~<quantas-linhas-de-commits-serao-retornadas>
