@@ -1,0 +1,5 @@
+Enviar tag para repositório
+git push origin <nome-da-tag>
+
+Enviar todas as tags
+git push --tags
