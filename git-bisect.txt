@@ -1,0 +1,14 @@
+Como descobrir commits com possíveis problemas
+git bisect start
+e
+git bisect good <hash-do-commit> para definir um commit que está funcionando
+e
+git bisect bad <hash-do-commit> para definir um commit que não está funcionando
+
+O git irá retornar um possível bisect que está com erros, posteriormente podemos inserir 'git bisect good' para indicar que o bisect está funcionando
+
+Para indicar que o bisect não está funcionando, insere-se 'git bisect bad'
+
+O git irá retornar o hash desse commit que está funcionando
+
+Para parar o processo de busca do git, insere-se git bisect reset
