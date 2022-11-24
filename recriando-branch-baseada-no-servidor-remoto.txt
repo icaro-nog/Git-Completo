@@ -1,0 +1,4 @@
+Refazer branch localmente de acordo com a que há no servidor
+git fetch origin <nome-da-branch-remota>
+e
+git checkout <nome-da-branch-refeita>
