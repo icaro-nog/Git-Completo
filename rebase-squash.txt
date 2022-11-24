@@ -1,0 +1,6 @@
+Essa função serve para "comprimir" vários commits em apenas um
+git rebase -i <ponto-inicial-commit>~<numero-de-commits-abaixo>
+
+Na IDE utilizada fazer:
+pick <hash-do-commit> <descricao-commit>
+s ou squash <hash-do-commit> <descricao-commit> para comprimir o commit no commit pick

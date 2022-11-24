@@ -1,0 +1,2 @@
+Trazer um commit específico de outra branch, sem a necessidade de merge
+git cherry-pick <hash-do-commit>
